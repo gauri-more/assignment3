@@ -128,7 +128,7 @@ span.seprator:after {
     border-top: 2px solid #623bcc;
     display: block;
     position: absolute;
-    margin-top: 10px;
+    margin-top: 6%;
 }
 
 .seprator.seprator-left:after {

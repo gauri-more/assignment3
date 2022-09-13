@@ -773,10 +773,10 @@ a.terms-links:hover {
         margin-bottom: 18px;
     }
 
-    .owl-dots {
-        position: absolute;
-        bottom: 15% !important;
-        left: 42%;
+   .owl-dots {
+       position: absolute;
+       bottom: 5% !important;
+       left: 41%;
     }
 
     .button-primary-lg {
@@ -788,7 +788,7 @@ a.terms-links:hover {
         position: absolute;
         /* bottom: 5% !important; */
         top: 88%;
-        left: 40% !important;
+        left: 35% !important;
     }
 
     .review-slider {
